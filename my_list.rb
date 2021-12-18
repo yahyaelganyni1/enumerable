@@ -15,4 +15,3 @@ class MyList
     end
   end
 end
-
