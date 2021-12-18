@@ -16,7 +16,3 @@ class MyList
   end
 end
 
-
-# Test #filter
-irb> list.filter {|e| e.even?}
-=> [2, 4]
