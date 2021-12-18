@@ -26,19 +26,23 @@ To get a local copy up and running follow these simple example steps.
 irb main.rb
 ```
 
-## Authors
+## Author
 
-👤 **Author1**
+👤 **Author 1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+### isaka lumato
 
-👤 **Author2**
+- GitHub: [@isaka-lumato](https://github.com/isaka-lumato)
+- Twitter: [@lumato_isaac](https://twitter.com/lumato_isaac)
+- LinkedIn: [lumato_isaac](https://www.https://www.linkedin.com/in/isaka-william-90773020b/.com/in/yahya-el-ganayni-a456115b/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Author 2**
+
+### yahya elganayni
+
+- GitHub: [@yahyaelganyni1](https://github.com/yahyaelganyni1)
+- Twitter: [@crazy20046](https://twitter.com/crazy20046)
+- LinkedIn: [Yahya EL-ganayni](https://www.linkedin.com/in/yahya-el-ganayni-a456115b/)
 
 ## 🤝 Contributing
 
